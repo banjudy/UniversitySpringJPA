@@ -1,0 +1,382 @@
+﻿anglisztika;XFI19-101;Filozófiatörténet;K;1|2;2;NULL
+anglisztika;DIG-001;Digitális bölcsész kompetenciák;G;1|2|3|4|5|6;2;NULL
+anglisztika;FLN11-101;A nyelvtudomány alapjai;K;1;3;NULL
+anglisztika;ANG-101;Bevezetés az irodalomba;K;1;3;NULL
+anglisztika;ANG-102;Nyelvgyakorlat 1.;G;1;4;NULL
+anglisztika;ANG-106;Nyelvgyakorlat 2.;G;2;4;ANG-102
+anglisztika;ANG11-104;Tudományos íráskészség 1.;G;1;3;NULL
+anglisztika;ANG11-108;Tudományos íráskészség 2.;G;2;3;ANG11-104
+anglisztika;ANG17-112;Bevezetés az irodalomba;G;1|2;3;NULL
+anglisztika;AME-121;Angolszász politikai kultúra;K;1;3;NULL
+anglisztika;ANG11-132;Bevezetés a nyelvtudományba;G;1;3;NULL
+anglisztika;ANG-141;Hangtani alapozó;K;2;2;NULL
+anglisztika;ANG-151;Mondattani alapozó;K;2;2;NULL
+anglisztika;ANG11-181;Írástechnika;K;1;3;NULL
+anglisztika;ANG17-183;Tipográfia;K;2;2;NULL
+anglisztika;ANG11-001;Nyelvi alapvizsga angol nyelvből;V;2;3;ANG-106*|ANG11-108*
+anglisztika;ANG17-211;A középkor és a reneszánsz angol irodalma;K;2|3|4;2;ANG-101*
+anglisztika;ANG17-213;Az angol irodalom a restaurációtól 1890-ig;K;2|3|4;2;ANG-101*
+anglisztika;ANG17-215;Az angol irodalom 1890-től az 1960-as évekig;K;2|3|4;2;ANG-101*
+anglisztika;ANG17-217;Kortárs angol nyelvű irodalom;K;5|6;3;ANG17-211|ANG17-213|ANG17-215
+anglisztika;AME17-211;Amerikai irodalom 1.;K;3;3;ANG11-001|ANG-101*
+anglisztika;AME17-213;Amerikai irodalom 2.;K;4;3;ANG11-001|ANG-101*
+anglisztika;ANG-223;Nagy-Britannia történelme;K;3;3;ANG11-001|AME-121
+anglisztika;AME-221;Az Egyesült Államok történelme 1.;K;4;3;ANG11-001|AME-121
+anglisztika;ANG-202;Nyelvi készségfejlesztés;G;3;3;ANG11-001
+anglisztika;ANG-204;Tematikus nyelvfejlesztés;G;4;3;ANG-202
+anglisztika;ANG-206;Haladó íráskészség;G;5|6;3;ANG-204
+anglisztika;ANG17-212;A középkor és a reneszánsz angol irodalma;G;2|3|4;3;ANG-101*
+anglisztika;ANG17-214;Az angol irodalom a restaurációtól 1890-ig;G;2|3|4;3;ANG-101*
+anglisztika;ANG17-216;Az angol irodalom 1890-től az 1960-as évekig;G;2|3|4;3;ANG-101*
+anglisztika;ANG17-218;Irodalmi szövegolvasás 1.;K;5|6;3;ANG17-211|ANG17-213|ANG17-215
+anglisztika;ANG17-219;Irodalmi szövegolvasás 2.;K;5|6;3;ANG17-211|ANG17-213|ANG17-215
+anglisztika;ANG-273;Országismeret: Angol nyelvű kultúrák;K;3;3;AME-121
+anglisztika;ANG-241;Hangtan;K;3|4;2;NULL
+anglisztika;ANG-242;Hangtan;G;3|4;3;ANG11-132
+anglisztika;ANG-243;Haladó hangtan;K;5|6;3;NULL
+anglisztika;ANG-249;Az angol nyelv története;K;5;2;NULL
+anglisztika;ANG-251;Mondattan;K;3|4;2;NULL
+anglisztika;ANG-252;Mondattan;G;3|4;3;ANG11-132
+anglisztika;ANG-253;Haladó mondattan;K;5|6;3;NULL
+anglisztika;ANG17-261;Alkalmazott nyelvészet;K;3|4|5|6;2;ANG11-001
+anglisztika;ANG-262;Alkalmazott nyelvészet;G;3|4;3;ANG11-001
+germanisztika;XFI19-101;Filozófiatörténet;K;1|2;2;NULL
+germanisztika;DIG-001;Digitális bölcsész kompetenciák;G;1|2|3|4|5|6;2;NULL
+germanisztika;FLN11-101;A nyelvtudomány alapjai;K;1;3;NULL
+germanisztika;FLI11-101;Az irodalomtudomány alapjai;K;1;3;NULL
+germanisztika;GER17-101;Germán nyelvek és kultúrák;K;2;3;NULL
+germanisztika;NEM11-111;Szóbeli kommunikáció;G;1;3;NULL
+germanisztika;NEM17-121;Lexikai és grammatikai kompetencia 1.;G;1;3;NULL
+germanisztika;NEM17-122;Lexikai és grammatikai kompetencia 2.;G;2;3;NEM17-121
+germanisztika;NEM17-131;Írott nyelvi kommunikáció 1.;G;2;3;NULL
+germanisztika;NEM11-141;Német nyelvű országok magyar szemmel;G;2;3;NULL
+germanisztika;NEM17-241;Nyelvészeti szövegalkotás;G;1;3;FLN11-101*
+germanisztika;NEM17-311;Filológiai és irodalmi szövegelemzési alapismeretek;G;1|2;4;NULL
+germanisztika;NEM11-331;Bevezetés a kultúratudományba;K;2;3;NULL
+germanisztika;NEM17-001;Nyelvi alapvizsga német nyelvből;V;2;2;NEM11-111*|NEM17-121*|NEM17-122*|NEM17-131*|NEM11-141*
+germanisztika;NEM17-201;Írott nyelvi kommunikáció 2.;G;3;3;NEM17-001*
+germanisztika;NEM17-211;Az interkulturális kompetencia fejlesztése;G;3;3;NEM17-001*
+germanisztika;NEM17-223;Frazémák és kötött kifejezések;G;3;3;NEM17-001*
+germanisztika;NEM17-231;Lexikai és grammatikai kompetencia 3. Reflektált nyelvhasználat;G;4;3;NEM17-001*
+germanisztika;NEM17-242;Beszédképzés és –értés;G;2|3;4;NEM17-241*
+germanisztika;NEM17-251;Szófajok és szavak szerkezete;K;3;3;NEM17-241*
+germanisztika;NEM17-252;Szófajok és szavak szerkezete;G;3|4;4;NEM17-241*
+germanisztika;NEM17-271;A német mondattan;K;4;3;NEM17-241*
+germanisztika;NEM17-272;A német mondattan;G;4|5;4;NEM17-241*
+germanisztika;NEM17-321;Német irodalom 1. (Líratörténet);K;2|3|4|5|6;3;NEM17-311*
+germanisztika;NEM17-322;Német irodalom 1. (Líratörténet);G;2|3|4|5|6;4;NEM17-311*
+germanisztika;NEM17-323;Német irodalom 2. (Prózatörténet);K;2|3|4|5|6;3;NEM17-311*
+germanisztika;NEM17-324;Német irodalom 2. (Prózatörténet);G;2|3|4|5|6;4;NEM17-311*
+germanisztika;NEM17-325;Német irodalom 3. (Drámatörténet);K;2|3|4|5|6;3;NEM17-311*
+germanisztika;NEM17-326;Német irodalom 3. (Drámatörténet);G;2|3|4|5|6;4;NEM17-311*
+germanisztika;NEM17-341;Nyomtatott médiumok;G;2|3|4|5|6;3;NEM11-331*
+germanisztika;NEM17-361;Vizuális és elektronikus médiumok;G;2|3|4|5|6;3;NEM11-331*
+germanisztika;NEM-382;Regionalitás,kultúra és médiumok;G;2|3|4|5|6;4;NULL
+germanisztika;NEM17-421;Európa és a német kultúra tört. régiói;K;3;5;NEM17-001*
+germanisztika;NEM17-422;A város mint kulturális központ;G;4|5;5;NEM17-421*
+germanisztika;NEM17-424;A német irodalom mint a magyar irodalom közvetítője;G;4|5;5;NEM17-421*
+germanisztika;NEM17-431;Német-magyar kapcsolatok a XVI. századtól napjainkig;K;3;5;NEM17-001*
+germanisztika;NEM17-432;Német nyelvű dokumentáris források feldolgozása;G;4|5;5;NEM17-431*
+germanisztika;NEM17-433;Német-magyar kulturális interferenciák;G;4|5;5;NEM17-431*
+germanisztika;NEM20-451;A német nyelv fejlődési tendenciái;G;3;5;NULL
+germanisztika;NEM-455;Az internet mint a nyelvi kommunikáció színtere: Szövegértési és kommunikációs gyakorlatok;G;4|5;5;NULL
+germanisztika;NEM-456;Nyelvhasználat és média német nyelvterületen: szövegértési és kommunikációs gyakorlatok;G;4|5;5;NULL
+germanisztika;NEM17-491;Szövegkompetencia és nyelvhasználat;K;3;5;NEM17-001*
+germanisztika;NEM17-492;Prezentációs és moderációs technikák, új médiák;G;4|5;5;NEM17-491
+germanisztika;NEM17-494;Tartalomalapú projektek;G;4|5;5;NEM17-491
+germanisztika;NEM17-501;Bevezetés a közép-európai zsidóság kultúrájába;G;3;5;NEM17-001*
+germanisztika;NEM17-502;Német nyelvű "zsidó" irodalom a XVIII. századtól napjainkig;G;4|5;5;NULL
+germanisztika;NEM17-503;Zsidó identitások Közép-Európában, XVIII-XXI. század;G;4|5;5;NULL
+germanisztika;NEM-SZD;Szakdolgozat (Egyéni szakdolgozati felkészülés);EF;5;4;NULL
+informatikus könyvtáros;DIG-001;Digitális bölcsész kompetenciák;G;1|2|3|4|5|6;2;NULL
+informatikus könyvtáros;IKT19-101;Bevezetés a könyvtár- és információtudományba;K;1;4;NULL
+informatikus könyvtáros;IKT19-102;Kutatásmódszertan;G;2;3;NULL
+informatikus könyvtáros;IKT-103;Közgyűjteményi ismeretek;K;1;2;NULL
+informatikus könyvtáros;IKT-104;Kommunikáció és informatika alapjai;G;1;4;NULL
+informatikus könyvtáros;IKT-105;Fenntarthatóság és könyvtár;K;2;4;NULL
+informatikus könyvtáros;IKT-106;Információelmélet, információs műveltség;K;2;2;NULL
+informatikus könyvtáros;IKT11-121;Olvasásszociológia, -pedagógia, -pszichológia;K;4;3;NULL
+informatikus könyvtáros;IKT19-143;Könyv- és könyvtártörténet 1.;K;1;4;NULL
+informatikus könyvtáros;IKT19-144;Könyv- és könyvtártörténet 2.;K;2;4;IKT19-143
+informatikus könyvtáros;IKT-145;Sajtó- és könyvkereskedelemtörténet;K;3;3;NULL
+informatikus könyvtáros;IKT19-201;Formai feltárás, dokumentumleírás 1.;G;1;4;NULL
+informatikus könyvtáros;IKT19-202;Formai feltárás, dokumentumleírás 2.;G;2;4;IKT19-201
+informatikus könyvtáros;IKT19-203;Formai feltárás, dokumentumleírás 3.;G;3;3;IKT19-202
+informatikus könyvtáros;IKT11-211;Osztályozási rendszerek, információkereső nyelvek, tartalmi feltárás 1.;G;1;4;NULL
+informatikus könyvtáros;IKT11-212;Osztályozási rendszerek, információkereső nyelvek, tartalmi feltárás 2.;G;2;4;IKT11-211
+informatikus könyvtáros;IKT19-213;Osztályozási rendszerek, információkereső nyelvek, tartalmi feltárás 3.;G;3;3;IKT11-212
+informatikus könyvtáros;IKT-224;Könyvtártan;K;1;3;NULL
+informatikus könyvtáros;IKT19-225;Gyűjtemény- és szolgáltatásmenedzsment;K;2;4;IKT-224
+informatikus könyvtáros;IKT19-226;Menedzsment ismeretek;K;3;3;NULL
+informatikus könyvtáros;IKT17-241;Tájékoztatás, információforrások 1.;K;3;3;NULL
+informatikus könyvtáros;IKT17-242;Tájékoztatás, információforrások 2.;K;4;3;IKT17-241
+informatikus könyvtáros;IKT19-255;Adatbázisépítés;G;4;2;NULL
+informatikus könyvtáros;IKT19-256;Integrált könyvtári rendszerek;G;4;3;IKT19-203
+informatikus könyvtáros;IKT-257;Digitális gyűjtemények fejlesztése;G;5;3;IKT-270
+informatikus könyvtáros;IKT-263;Szakirodalmi adatbázisok 1.;G;5;3;NULL
+informatikus könyvtáros;IKT-264;Szakirodalmi adatbázisok 2.;G;6;3;IKT-263
+informatikus könyvtáros;IKT-270;Webszerkesztés;G;2;3;NULL
+informatikus könyvtáros;IKT-277;Hálózati ismeretek;G;3;3;NULL
+informatikus könyvtáros;IKT-278;Hálózati kommunikáció;G;4;3;IKT-277
+informatikus könyvtáros;IKT19-482;Projektmenedzsment;G;6;3;NULL
+informatikus könyvtáros;IKT17-291;Szakmai gyakorlat 1.;G;3;4;IKT-224
+informatikus könyvtáros;IKT19-292;Szakmai gyakorlat 2.;G;4;4;IKT19-203|IKT17-291
+informatikus könyvtáros;IKT19-293;Szakmai gyakorlat 3.;G;5;4;IKT19-292|IKT19-226
+informatikus könyvtáros;IKT19-294;Szakmai gyakorlat 4.;G;6;3;IKT19-293
+informatikus könyvtáros;KT19- SZD;Egyéni szakdolgozati felkészülés;EF;6;10;NULL
+japán;XFI19-101;Filozófiatörténet;K;1|2;2;NULL
+japán;DIG-001;Digitális bölcsész kompetenciák;G;1|2|3|4|5|6;2;NULL
+japán;FLN11-101;A nyelvtudomány alapjai;K;1;3;NULL
+japán;OKE11-121;Összehasonlító vallástörténet;K;1;3;NULL
+japán;OKE11-123;Távol-keleti vallások 1.;K;2;4;NULL
+japán;OKE11-131;Ókori és keleti művészettörténet 1.;K;1;3;NULL
+japán;OKE11-133;Távol-keleti művészettörténet;K;2;4;NULL
+japán;KEL11-201;ATávol-Kelettörténelme1.;K;3;4;NULL
+japán;KEL11-202;ATávol-Kelettörténelme2.;K;4;4;NULL
+japán;KEL11-211;Távol-keleti művelődéstörténet;K;4;4;NULL
+japán;KEL11-221;Távol-keleti nyelvek és írások;K;5;4;NULL
+japán;KEL11-231;Távol-keleti vallások 2.;K;3;4;NULL
+japán;JAP-101;Mai japán nyelvképzés 1.;G;1;2;NULL
+japán;JAP-102;Mai japán nyelvképzés 2.;G;1;2;NULL
+japán;JAP-103;Mai japán nyelvképzés 3.;G;1;2;NULL
+japán;JAP-104;Mai japán nyelvképzés 4.;G;2;2;JAP-101|JAP-102|JAP-103
+japán;JAP-105;Mai japán nyelvképzés 5.;G;2;2;JAP-101|JAP-102|JAP-103
+japán;JAP-106;Mai japán nyelvképzés 6.;G;2;2;JAP-101|JAP-102|JAP-103
+japán;JAP-001;Alapvizsga japán nyelvből;V;2;0;JAP-104|JAP-105|JAP-106
+japán;JAP-207;Mai japán nyelvképzés 7.;G;3;2;JAP-001
+japán;JAP-208;Mai japán nyelvképzés 8.;G;3;2;JAP-001
+japán;JAP-209;Mai japán nyelvképzés 9.;G;3;2;JAP-001
+japán;JAP-210;Mai japán nyelvképzés 10.;G;4;2;JAP-207|JAP-208|JAP-209
+japán;JAP-211;Mai japán nyelvképzés 11.;G;4;2;JAP-207|JAP-208|JAP-209
+japán;JAP-212;Mai japán nyelvképzés 12.;G;5;2;JAP-210|JAP-211
+japán;JAP-213;Mai japán nyelvképzés 13.;G;5;2;JAP-210|JAP-211
+japán;JAP-214;Mai japán nyelvképzés 14.;G;6;2;JAP-212|JAP-213
+japán;JAP-215;Mai japán nyelvképzés 15.;G;6;2;JAP-212|JAP-213
+japán;JAP-221;Mai japán szakszövegolvasás 1.;G;3|4|5|6;2;JAP-001
+japán;JAP-222;Mai japán szakszövegolvasás 2.;G;3|4|5|6;2;JAP-001
+japán;JAP-223;Mai japán szakszövegolvasás 3.;G;3|4|5|6;2;JAP-001
+japán;JAP-224;Mai japán szakszövegolvasás 4.;G;3|4|5|6;2;JAP-001
+japán;JAP11- 231;Mai japán leíró nyelvtan;K;3;3;JAP-001
+japán;JAP11- 141;Japán kultúra és társadalom 1.;K;1;3;NULL
+japán;JAP11- 142;Japán kultúra és társadalom 2.;K;2;3;JAP11- 141
+japán;JAP11- 251;Japán történelem 1.;K;3;3;NULL
+japán;JAP11- 252;Japán történelem 2.;K;4;3;JAP11- 251
+japán;JAP11- 261;Japán irodalom;K;5;3;NULL
+japán;JAP15- 281;Szakdolgozati konzultáció;G;6;2;JAP-212|JAP-213
+japán;JAP11- 301;Bevezetés a régi japán nyelvbe 1.;G;3;3;JAP-001
+japán;JAP11- 302;Bevezetés a régi japán nyelvbe 2.;G;4;3;JAP11- 301
+japán;JAP-311;Klasszikus japán szövegolvasás 1.;G;5;2;JAP11- 302
+japán;JAP11-312;Klasszikus japán szövegolvasás 2.;G;6;2;JAP-311
+japán;JAP-SZD;Szakdolgozat (Egyéni szakdolgozati felkészülés);EF;6;4;NULL
+klasszika filológia;XFI19-101;Filozófiatörténet;K;1|2;2;NULL
+klasszika filológia;DIG-001;Digitális bölcsész kompetenciák;G;1|2|3|4|5|6;2;NULL
+klasszika filológia;FLN11-101;A nyelvtudomány alapjai;K;1;3;NULL
+klasszika filológia;OKE11-132;Ókori és keleti művészettörténet 2.;K;2;3;NULL
+klasszika filológia;OKO15-201;Kapcsolatok az ókori Mediterráneumban;K;5|6;2;NULL
+klasszika filológia;KLF-121;Bevezetés az ógörög nyelvbe 1.;G;1;2;NULL
+klasszika filológia;KLF-122;Bevezetés az ógörög nyelvbe 2.;K;1;2;NULL
+klasszika filológia;KLF-123;Bevezetés az ógörög nyelvbe 3.;G;2;2;KLF-121|KLF-122
+klasszika filológia;KLF-124;Bevezetés az ógörög nyelvbe 4.;K;2;2;KLF-121|KLF-122
+klasszika filológia;KLF-131;Bevezetés a latin nyelvbe 1.;G;1;2;NULL
+klasszika filológia;KLF-132;Bevezetés a latin nyelvbe 2.;K;1;2;NULL
+klasszika filológia;KLF-133;Bevezetés a latin nyelvbe 3.;G;2;2;KLF-131|KLF-132
+klasszika filológia;KLF-134;Bevezetés a latin nyelvbe 4.;K;2;2;KLF-131|KLF-132
+klasszika filológia;KLF-001;Alapvizsga ógörög nyelvből;V;2;0;KLF-124*
+klasszika filológia;KLF-002;Kritériumvizsga latin nyelvből;V;2;0;NULL
+klasszika filológia;KLF11-201;Ógörög szövegolvasás 1.;G;3;3;KLF-001
+klasszika filológia;KLF11-202;Ógörög szövegolvasás 2.;G;3;3;KLF-001
+klasszika filológia;KLF11-203;Ógörög szövegolvasás 3.;G;4;3;KLF-001
+klasszika filológia;KLF11-204;Ógörög szövegolvasás 4.;G;4;3;KLF-001
+klasszika filológia;KLF16-205;Ógörög szövegolvasás 5.;G;5;4;KLF-001
+klasszika filológia;KLF16-206;Ógörög szövegolvasás 6.;G;5;4;KLF-001
+klasszika filológia;KLF16-207;Ógörög szövegolvasás 7.;G;6;4;KLF-001
+klasszika filológia;KLF11-208;Ógörög szövegolvasás 8.;G;3|4|5|6;3;KLF-001
+klasszika filológia;KLF11-209;Ógörög szövegolvasás 9.;G;3|4|5|6;4;KLF-001
+klasszika filológia;KLF-210;Ógörög szövegolvasás idegen nyelven;G;3|4|5|6;6;KLF-001
+klasszika filológia;KLF11-211;Ógörög leíró nyelvtan 1. (Alaktan);G;3;3;KLF-001
+klasszika filológia;KLF11-212;Ógörög leíró nyelvtan 2. (Alaktan);K;4;3;KLF11-211
+klasszika filológia;KLF11-213;Ógörög leíró nyelvtan 3. (Mondattan);G;5;3;KLF11-212
+klasszika filológia;KLF11-214;Ógörög leíró nyelvtan 4. (Mondattan);G;6;3;KLF11-213
+klasszika filológia;KLF11-301;Latin szövegolvasás 1.;G;3;3;KLF-002
+klasszika filológia;KLF11-302;Latin szövegolvasás 2.;G;4;3;KLF-002
+klasszika filológia;KLF11-303;Latin szövegolvasás 3.;G;3;3;KLF-002
+klasszika filológia;KLF11-304;Latin szövegolvasás 4.;G;4;3;KLF-002
+klasszika filológia;KLF16-305;Latin szövegolvasás 5.;G;4|5|6;4;KLF-002
+klasszika filológia;KLF16-306;Latin szövegolvasás 6.;G;5;4;KLF-002
+klasszika filológia;KLF16-307;Latin szövegolvasás 7.;G;6;4;KLF-002
+klasszika filológia;KLF11-308;Latin szövegolvasás 8.;G;3|4|5|6;3;KLF-002
+klasszika filológia;KLF11-309;Latin szövegolvasás 9.;G;3|4|5|6;4;KLF-002
+klasszika filológia;KLF-310;Latin szövegolvasás idegen nyelven;G;3|4|5|6;6;KLF-002
+klasszika filológia;KLF11-311;Latin leíró nyelvtan 1. (Mondattan);K;3;3;KLF-002
+klasszika filológia;KLF11-312;Latin leíró nyelvtan 2. (Mondattan);K;4;3;KLF11-311
+klasszika filológia;KLF11-401;Görög történelem;K;3|4;1;NULL
+klasszika filológia;KLF11-402;Római történelem;K;3|4|5;1;NULL
+klasszika filológia;KLF11-411;Ógörög irodalomtörténet;K;5;3;KLF11-401
+klasszika filológia;KLF11-412;Római irodalomtörténet;K;6;3;KLF11-402
+magyar;XFI19-101;Filozófiatörténet;K;1|2;2;NULL
+magyar;XKO16-106;Kultúra, kommunikáció, retorika;K;1|2;4;NULL
+magyar;DIG-001;Digitális bölcsész kompetenciák;G;1|2|3|4|5|6;2;NULL
+magyar;MIR11-101;A magyar irodalom kezdetei (módszertani és informatikai ismeretekkel);K;1;3;NULL
+magyar;MIR11-111;Irodalmi proszeminárium;G;1;3;NULL
+magyar;MNY11-121;Bevezetés a nyelvtudományba;K;1;3;NULL
+magyar;MNY11-131;Nyelvészeti proszeminárium;G;1;3;NULL
+magyar;MIR11-201;Az ókori irodalmak története;K;1;3;NULL
+magyar;MIR-202;Világirodalom (középkor-barokk vagy XVIII-XIX. század);K;2;3;NULL
+magyar;MIR-203;Világirodalom a XX. században;K;5;3;NULL
+magyar;MIR-204;Világirodalom;G;3|4;4;NULL
+magyar;MIR-211;Régi magyar irodalom;K;2;3;NULL
+magyar;MIR-212;Régi magyar irodalom;G;1|2;3;NULL
+magyar;MIR11-221;Klasszikus magyar irodalom 1.;K;3;3;NULL
+magyar;MIR16-222;Klasszikus magyar irodalom;G;3;3;NULL
+magyar;MIR11-223;Klasszikus magyar irodalom 2.;K;4;3;NULL
+magyar;MIR-231;Modern magyar irodalom;K;5;3;NULL
+magyar;MIR-232;Modern magyar irodalom;G;5|6;3;NULL
+magyar;MIR15-233;Kortárs magyar irodalom;G;6;3;NULL
+magyar;MIR-241;Irodalomelmélet 1.;K;1;3;NULL
+magyar;MIR11-242;Irodalomelmélet 2.;G;3|4;3;NULL
+magyar;MIR16-244;Poétikai gyakorlatok;G;3|4;3;NULL
+magyar;MIR11-243;Elméleti és kultúratudományi értelmezések;G;5|6;4;NULL
+magyar;MNY11-200;Helyesírás (alapvizsga;V;1|2|3|4;0;NULL
+magyar;MNY-211;Fonetika;G;1|2;3;NULL
+magyar;MNY16-221;Kommunikáció szóban és írásban;G;2|3;3;XKO16-106
+magyar;MNY11-233;Finnugrisztika;G;2|3;3;MNY-211
+magyar;MNY11-243;A nyelv térben és időben;K;2|3;3;NULL
+magyar;MNY16-244;Nyelv és társadalom;G;3|4;3;NULL
+magyar;MNY16-252;Nyelvtörténet 1.;G;3|4;3;MNY11-243*
+magyar;MNY16-253;Nyelvtörténet 2.;G;4|5;3;MNY16-252
+magyar;MNY11-263;Magyar grammatika 1.;G;2|3;3;NULL
+magyar;MNY19-264;Magyar grammatika;K;3|4;4;MNY11-263|MNY19-265*
+magyar;MNY19-265;Magyar grammatika 2.;G;3|4;3;MNY11-263
+magyar;MNY11-281;Jelentéstan és pragmatika;K;2|3;3;NULL
+magyar;MNY11-282;Szövegtan;K;4|5;3;NULL
+magyar;MNY11-283;Stilisztika;G;5|6;3;NULL
+magyar;MNY11-291;Pszicholingvisztika;K;5|6;3;NULL
+magyar;MNY16-292;Nyelvészeti alkalmazások;G;3|4|5|6;3;NULL
+magyar;MIR-SZD;Szakdolgozat (Egyéni szakdolgozati felkészülés);EF;6;4;NULL
+magyar;MNY-SZD;Szakdolgozat (Egyéni szakdolgozati felkészülés);EF;6;4;NULL
+skandinavisztika;XFI19-101;Filozófiatörténet;K;1|2;2;NULL
+skandinavisztika;DIG-001;Digitális bölcsész kompetenciák;G;1|2|3|4|5|6;2;NULL
+skandinavisztika;FLN11-101;A nyelvtudomány alapjai;K;1;3;NULL
+skandinavisztika;FLI11-101;Az irodalomtudomány alapjai;K;1;3;NULL
+skandinavisztika;GER17-101;Germán nyelvek és kultúrák;K;2;3;NULL
+skandinavisztika;SKD-101;Dán nyelv 1A;G;1;2;NULL
+skandinavisztika;SKN-101;Norvég nyelv 1A;G;1;2;NULL
+skandinavisztika;SKS-101;Svéd nyelv 1A;G;1;2;NULL
+skandinavisztika;SKD-102;Dán nyelv 1B;G;1;2;NULL
+skandinavisztika;SKN-102;Norvég nyelv 1B;G;1;2;NULL
+skandinavisztika;SKS-102;Svéd nyelv 1B;G;1;2;NULL
+skandinavisztika;SKD16-103;Dán nyelv 1C;G;1;2;NULL
+skandinavisztika;SKN16-103;Norvég nyelv 1C;G;1;2;NULL
+skandinavisztika;SKS16-103;Svéd nyelv 1C;G;1;2;NULL
+skandinavisztika;SKD16-104;Dán nyelv 1D;G;1;2;NULL
+skandinavisztika;SKN16-104;Norvég nyelv 1D;G;1;2;NULL
+skandinavisztika;SKS16-104;Svéd nyelv 1D;G;1;2;NULL
+skandinavisztika;SKD16-105;Dán nyelv 2A;G;2;2;SKD-101|SKD-102|SKD16-103|SKD16-104
+skandinavisztika;SKN16-105;Norvég nyelv 2A;G;2;2;SKN-101|SKN-102|SKN16-103|SKN16-104
+skandinavisztika;SKS16-105;Svéd nyelv 2A;G;2;2;SKS-101|SKS-102|SKS16-103|SKS16-104
+skandinavisztika;SKD16-106;Dán nyelv 2B;G;2;2;SKD-101|SKD-102|SKD16-103|SKD16-104
+skandinavisztika;SKN16-106;Norvég nyelv 2B;G;2;2;SKN-101|SKN-102|SKN16-103|SKN16-104
+skandinavisztika;SKS16-106;Svéd nyelv 2B;G;2;2;SKS-101|SKS-102|SKS16-103|SKS16-104
+skandinavisztika;SKD16-107;Dán nyelv 2C;G;2;2;SKD-101|SKD-102|SKD16-103|SKD16-104
+skandinavisztika;SKN16-107;Norvég nyelv 2C;G;2;2;SKN-101|SKN-102|SKN16-103|SKN16-104
+skandinavisztika;SKS16-107;Svéd nyelv 2C;G;2;2;SKS-101|SKS-102|SKS16-103|SKS16-104
+skandinavisztika;SKD16-108;Dán nyelv 2D;G;2;2;SKD-101|SKD-102|SKD16-103|SKD16-104
+skandinavisztika;SKN16-108;Norvég nyelv 2D;G;2;2;SKN-101|SKN-102|SKN16-103|SKN16-104
+skandinavisztika;SKS16-108;Svéd nyelv 2D;G;2;2;SKS-101|SKS-102|SKS16-103|SKS16-104
+skandinavisztika;SKA-141;Skandinávia története 1.;K;1;2;NULL
+skandinavisztika;SKA-142;Skandinávia története 2.;K;2;2;SKA-141*
+skandinavisztika;SKA-151;Skandináv országismeret;K;1;2;NULL
+skandinavisztika;SKA-152;Skandináv országismeret;K;2;2;SKA-151*
+skandinavisztika;SKD18-001;Nyelvi alapvizsga dán nyelvből;V;2;0;SKD16-105*|SKD16-106*|SKD16-107*|SKD16-108*
+skandinavisztika;SKN18-001;Nyelvi alapvizsga norvég nyelvből;V;2;0;SKN16-105*|SKN16-106*|SKN16-107*|SKN16-108*
+skandinavisztika;SKS18-001;Nyelvi alapvizsga svéd nyelvből;V;2;0;SKS16-105*|SKS16-106*|SKS16-107*|SKS16-108*
+skandinavisztika;SKD18-201;Dán nyelv 3A;G;3;3;SKD18-001
+skandinavisztika;SKN18-201;Norvég nyelv 3A;G;3;3;SKN18-001
+skandinavisztika;SKS18-201;Svéd nyelv 3A;G;3;3;SKS18-001
+skandinavisztika;SKD18-202;Dán nyelv 3B;G;3;2;SKD18-001
+skandinavisztika;SKN18-202;Norvég nyelv 3B;G;3;2;SKN18-001
+skandinavisztika;SKS18-202;Svéd nyelv 3B;G;3;2;SKS18-001
+skandinavisztika;SKD18-203;Dán nyelv 3C;G;3;2;SKD18-001
+skandinavisztika;SKN18-203;Norvég nyelv 3C;G;3;2;SKN18-001
+skandinavisztika;SKS18-203;Svéd nyelv 3C;G;3;2;SKS18-001
+skandinavisztika;SKD18-204;Dán nyelv 4A;G;4;3;SKD18-001
+skandinavisztika;SKN18-204;Norvég nyelv 4A;G;4;3;SKN18-001
+skandinavisztika;SKS18-204;Svéd nyelv 4A;G;4;3;SKS18-001
+skandinavisztika;SKD18-205;Dán nyelv 4B;G;4;2;SKD18-001
+skandinavisztika;SKN18-205;Norvég nyelv 4B;G;4;2;SKN18-001
+skandinavisztika;SKS18-205;Svéd nyelv 4B;G;4;2;SKS18-001
+skandinavisztika;SKD18-206;Dán nyelv 4C;G;4;2;SKD18-001
+skandinavisztika;SKN18-206;Norvég nyelv 4C;G;4;2;SKN18-001
+skandinavisztika;SKS18-206;Svéd nyelv 4C;G;4;2;SKS18-001
+skandinavisztika;SKA16-211;Bevezetés a skandináv nyelvtudományba 1.;K;1;5;NULL
+skandinavisztika;SKA18-212;Bevezetés a skandináv nyelvtudományba 2.;K;2;5;SKA16-211
+skandinavisztika;SKD18-221;Dán leíró nyelvészet 1A;K;3;3;SKD18-001
+skandinavisztika;SKN18-221;Norvég leíró nyelvészet 1A;K;3;3;SKN18-001
+skandinavisztika;SKS18-221;Svéd leíró nyelvészet 1A;K;3;3;SKS18-001
+skandinavisztika;SKD18-222;Dán leíró nyelvészet 2A;K;4;3;SKD18-221
+skandinavisztika;SKN18-222;Norvég leíró nyelvészet 2A;K;4;3;SKN18-221
+skandinavisztika;SKS18-222;Svéd leíró nyelvészet 2A;K;4;3;SKS18-221
+skandinavisztika;SKA18-231;Skandináv nyelvtörténet 1A;K;5;5;NULL
+skandinavisztika;SKA18-232;Skandináv nyelvtörténet 2A;K;6;5;SKA18-231
+skandinavisztika;SKA11-301;Bevezetés a skandináv irodalomtudományba 1.;K;1;5;NULL
+skandinavisztika;SKA18-302;Bevezetés a skandináv irodalomtudományba 2.;K;2;5;SKA11-301
+skandinavisztika;SKD18-311;Dán irodalom 1A;K;3;3;SKD18-001
+skandinavisztika;SKN18-311;Norvég irodalom 1A;K;3;3;SKN18-001
+skandinavisztika;SKS18-311;Svéd irodalom 1A;K;3;3;SKS18-001
+skandinavisztika;SKD18-312;Dán irodalom 2A;K;4;3;SKD18-001
+skandinavisztika;SKN18-312;Norvég irodalom 2A;K;4;3;SKN18-001
+skandinavisztika;SKS18-312;Svéd irodalom 2A;K;4;3;SKS18-001
+skandinavisztika;SKD18-313;Dán irodalom 3A;K;5;2;SKD18-001
+skandinavisztika;SKN18-313;Norvég irodalom 3A;K;5;2;SKN18-001
+skandinavisztika;SKS18-313;Svéd irodalom 3A;K;5;2;SKS18-001
+skandinavisztika;SKD18-314;Dán irodalom 4A;K;6;2;SKD18-001
+skandinavisztika;SKN18-314;Norvég irodalom 4A;K;6;2;SKN18-001
+skandinavisztika;SKS18-314;Svéd irodalom 4A;K;6;2;SKS18-001
+skandinavisztika;SKA18-331;Interskandináv kommunikáció;K;3;5;NULL
+skandinavisztika;SKA18-341;Skandináv irodalom- és szellemtörténeti áttekintés A;K;4;4;NULL
+skandinavisztika;SKA18-351;Skandinávia kultúrtörténete;K;5;4;NULL
+skandinavisztika;SKA18-361;Óészaki irodalom és kultúra;K;6;5;NULL
+skandinavisztika;SKA18-SZD;Szakdolgozat (Egyéni szakdolgozati felkészülés);EF;6;4;NULL
+történelem;XFI19-101;Filozófiatörténet;K;1|2;2;NULL
+történelem;DIG-001;Digitális bölcsész kompetenciák;G;1|2|3|4|5|6;2;NULL
+történelem;XKG11-101;Gazdaság- és társadalomtudomány;K;1|2;4;NULL
+történelem;TRN11-101;Bevezetés a történettudományba;K;1;3;NULL
+történelem;TÖR11-101;Historiográfia;K;3;3;NULL
+történelem;TÖR11-111;Történeti földrajz;G;1|2;3;NULL
+történelem;TÖR11-121;A régészet alapjai - az emberiség őstörténete;K;1;2;NULL
+történelem;TÖR11-151;Bevezetés a történeti kutatás módszereibe és segédleteibe;G;1|2;3;NULL
+történelem;TÖR11-171;Bevezetés a művelődéstörténetbe;K;2;4;NULL
+történelem;TLA-101;Latin nyelv 1.;G;1;2;NULL
+történelem;TLA-102;Latin nyelv 2.;G;2;2;TLA-101
+történelem;TÖR11-201;Magyar őstörténet;K;1|2;2;NULL
+történelem;TÖR-202;Az ókori Kelet története;K;1|2;3;NULL
+történelem;TÖR-203;Ókori görög történelem;K;1|2;3;NULL
+történelem;TÖR-204;Római történelem;K;1|2;3;NULL
+történelem;TÖR-205;Ókortörténeti szeminárium;G;1|2;3;NULL
+történelem;TÖR-211;Középkori magyar történelem 1.;K;2|3|4;3;NULL
+történelem;TÖR-212;Középkori magyar történelem 2., forráselemzés;G;2|3|4;2;NULL
+történelem;TÖR-213;Középkori magyar történelem 3.;G;2|3|4;3;NULL
+történelem;TÖR-221;A középkori Európa története 1.;K;2|3;3;NULL
+történelem;TÖR-222;A középkori Európa története 2., forráselemzés;G;2|3;2;NULL
+történelem;TÖR-223;A középkori Európa története 3.;G;2|3|4;3;NULL
+történelem;TÖR-231;Magyarország kora újkori története, 1526–1790, 1.;K;3|4;3;NULL
+történelem;TÖR-232;Magyarország kora újkori története, 1526–1790, 2., forráselemzés;G;3|4;2;NULL
+történelem;TÖR-233;Magyarország kora újkori története, 1526–1790, 3.;G;3|4;3;NULL
+történelem;TÖR-241;Kora újkori egyetemes történelem, XVI–XVIII. sz., 1.;K;3|4;3;NULL
+történelem;TÖR-242;Kora újkori egyetemes történelem, XVI–XVIII. sz., 2.;G;3|4;2;NULL
+történelem;TÖR-243;Kora újkori egyetemes történelem, XVI–XVIII. sz., 3;G;3|4;3;NULL
+történelem;TÖR-251;Újkori magyar történelem 1.;K;4|5;3;NULL
+történelem;TÖR-252;Újkori magyar történelem 2.;G;4|5;2;NULL
+történelem;TÖR-253;Újkori magyar történelem 3.;G;4|5;3;NULL
+történelem;TÖR-261;Újkori egyetemes történelem, 1789–1918, 1.;K;4|5;3;NULL
+történelem;TÖR-262;Újkori egyetemes történelem, 1789–1918, 2.;G;4|5;2;NULL
+történelem;TÖR-263;Újkori egyetemes történelem, 1789–1918, 3.;G;4|5;3;NULL
+történelem;TÖR-271;Jelenkori magyar történelem 1.;K;5|6;3;NULL
+történelem;TÖR-272;Jelenkori magyar történelem 2.;G;5|6;2;NULL
+történelem;TÖR-273;Jelenkori magyar történelem 3.;G;5|6;3;NULL
+történelem;TÖR-281;Jelenkori egyetemes történelem, 1918–2004, 1.;K;5|6;3;NULL
+történelem;TÖR-282;Jelenkori egyetemes történelem, 1918–2004, 2.;G;5|6;2;NULL
+történelem;TÖR-283;Jelenkori egyetemes történelem, 1918–2004, 3.;G;5|6;3;NULL
+történelem;TÖR-292;Történeti segédtudományok;G;3|4|5;2;NULL
+történelem;TÖR11-301;Gazdaság- és társadalomtörténet;G;5|6;3;NULL
+történelem;TÖR11-311;Művelődéstörténet;G;5|6;3;NULL
